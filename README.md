@@ -2,6 +2,13 @@
 
 **Sprout 2.0** is a beginner-friendly Indian mutual fund investing web application and interactive 5-step onboarding prototype designed around an approachable **₹100** starting amount, created for the **Newtonite UI/UX Design Assignment**.
 
+### Quick Submission Links
+- **Case Study PDF (in Repo):** https://github.com/Vaishnavi-khatri2005/sprout-2.0-newtonite/blob/main/docs/sprout-2.0-case-study.pdf (and local copy at [`docs/sprout-2.0-case-study.pdf`](docs/sprout-2.0-case-study.pdf))
+- **Case Study Markdown Source:** [`docs/sprout-2.0-case-study.md`](docs/sprout-2.0-case-study.md)
+- **Figma Design File *(link to verify)*:** https://www.figma.com/design/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment
+- **Figma Interactive Prototype *(link to verify)*:** https://www.figma.com/proto/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment?node-id=1-652&t=cLwORpH5vwAoZTcK-1
+- **GitHub Repository:** https://github.com/Vaishnavi-khatri2005/sprout-2.0-newtonite
+
 > **Mandatory Market-Risk Disclaimer:** Mutual fund investments are subject to market risks. Please read all scheme-related documents carefully.
 
 ---

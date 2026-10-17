@@ -5,6 +5,7 @@
 - **Brand:** Sprout 2.0
 - **Product Category:** Beginner-friendly mutual fund investing experience for first-time investors in India (starting from ₹100)
 - **Deliverables Included:**
+  - **Case Study PDF (in Repo):** https://github.com/Vaishnavi-khatri2005/sprout-2.0-newtonite/blob/main/docs/sprout-2.0-case-study.pdf (and local copy at [`docs/sprout-2.0-case-study.pdf`](sprout-2.0-case-study.pdf))
   - Production-building React 19 + TypeScript + Tailwind CSS 4 web application (`src/`)
   - Responsive Desktop (`1440px`) and Mobile (`390px`) Homepage (`/`)
   - Interactive 5-Screen Onboarding Prototype (`/onboarding/1` to `/onboarding/5`) with English and prototype Hindi (`हिंदी`) support
