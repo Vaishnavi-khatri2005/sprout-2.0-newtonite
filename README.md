@@ -6,7 +6,7 @@
 - **Case Study PDF (in Repo):** https://github.com/Vaishnavi-khatri2005/sprout-2.0-newtonite/blob/main/docs/sprout-2.0-case-study.pdf (and local copy at [`docs/sprout-2.0-case-study.pdf`](docs/sprout-2.0-case-study.pdf))
 - **Case Study Markdown Source:** [`docs/sprout-2.0-case-study.md`](docs/sprout-2.0-case-study.md)
 - **Figma Design File *(link to verify)*:** https://www.figma.com/design/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment
-- **Figma Interactive Prototype *(link to verify)*:** https://www.figma.com/proto/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment?node-id=1-652&t=cLwORpH5vwAoZTcK-1
+- **Figma Interactive Prototype *(link to verify)*:** https://www.figma.com/proto/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment?node-id=0-1&t=5Vwakxuj7i3Iecnq-1 *(Onboarding Flow: [node-id=1-652](https://www.figma.com/proto/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment?node-id=1-652&t=cLwORpH5vwAoZTcK-1))*
 - **GitHub Repository:** https://github.com/Vaishnavi-khatri2005/sprout-2.0-newtonite
 
 > **Mandatory Market-Risk Disclaimer:** Mutual fund investments are subject to market risks. Please read all scheme-related documents carefully.
@@ -104,7 +104,7 @@ The application uses a lightweight History API router ([`src/router.ts`](src/rou
 - **Figma Design File (Editable Frames, Design System & Assets — *Link to Verify*):**  
   https://www.figma.com/design/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment
 - **Figma Interactive Prototype (Onboarding Click-Through Flow — *Link to Verify*):**  
-  https://www.figma.com/proto/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment?node-id=1-652&t=cLwORpH5vwAoZTcK-1
+  https://www.figma.com/proto/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment?node-id=0-1&t=5Vwakxuj7i3Iecnq-1 *(Onboarding Flow: [node-id=1-652](https://www.figma.com/proto/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment?node-id=1-652&t=cLwORpH5vwAoZTcK-1))*
 
 ### Repository Design & Case Study Files
 - **Final Case Study PDF (10 Pages):** [`docs/sprout-2.0-case-study.pdf`](docs/sprout-2.0-case-study.pdf)

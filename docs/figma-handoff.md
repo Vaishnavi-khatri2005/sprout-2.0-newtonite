@@ -4,7 +4,7 @@
 >
 > ### Live Figma Links
 > - **Figma Design File (Editable Frames & Design System):** `https://www.figma.com/design/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment`
-> - **Figma Interactive Prototype (Onboarding Flow):** `https://www.figma.com/proto/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment?node-id=1-652&t=cLwORpH5vwAoZTcK-1`
+> - **Figma Interactive Prototype:** `https://www.figma.com/proto/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment?node-id=0-1&t=5Vwakxuj7i3Iecnq-1` *(Onboarding Flow: `https://www.figma.com/proto/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment?node-id=1-652&t=cLwORpH5vwAoZTcK-1`)*
 
 ---
 

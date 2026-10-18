@@ -11,7 +11,7 @@
   - Interactive 5-Screen Onboarding Prototype (`/onboarding/1` to `/onboarding/5`) with English and prototype Hindi (`हिंदी`) support
   - Figma Design System & Handoff Kit (`docs/figma-handoff.md`, `design/figma-assets/`, `design/figma-import-svgs/`)
   - User-Provided Figma Design File: https://www.figma.com/design/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment
-  - User-Provided Figma Interactive Prototype: https://www.figma.com/proto/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment?node-id=1-652&t=cLwORpH5vwAoZTcK-1
+  - User-Provided Figma Interactive Prototype: https://www.figma.com/proto/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment?node-id=0-1&t=5Vwakxuj7i3Iecnq-1
 
 > **Mandatory Market-Risk Disclaimer:** Mutual fund investments are subject to market risks. Please read all scheme-related documents carefully.
 
@@ -231,7 +231,7 @@ Executed via `tsc -b && vite build` (Vite v8.3.4) and `oxlint`:
 - **Cross-Viewport Verification:** Audited across `360px`, `390px`, `430px`, and `1440px` viewports for zero horizontal overflow, `≥ 44px` tap targets, keyboard navigation (`Tab`, `Shift+Tab`, `Escape`, arrow keys in OTP boxes), and screen-reader landmarks.
 - **Figma Design & Interactive Prototype Links (User-Provided):**
   - **Figma Design File:** https://www.figma.com/design/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment
-  - **Figma Prototype:** https://www.figma.com/proto/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment?node-id=1-652&t=cLwORpH5vwAoZTcK-1
+  - **Figma Prototype:** https://www.figma.com/proto/67FVguQmfCpgOL2XGjKZge/Sprout-2.0-%E2%80%94-Newtonite-UI-UX-Assignment?node-id=0-1&t=5Vwakxuj7i3Iecnq-1
   - *(Note: Links above are the user-created Figma cloud links from the handoff kit; evaluators should verify public view permissions in an incognito browser window.)*
 
 ---
